@@ -1,0 +1,28 @@
+
+.App {
+  height: 100%;
+  text-align: center;
+ 
+  background-color: rgb(234, 234, 234);
+}
+
+
+.login {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+.login #button {
+  margin-top: 20px;
+}
+
+.card{
+  padding: 1% ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+}
